@@ -1,0 +1,39 @@
+modules = ["python-3.11"]
+[agent]
+expertMode = true
+
+[nix]
+channel = "stable-25_05"
+packages = ["freetype", "geckodriver", "lcms2", "libimagequant", "libjpeg", "libtiff", "libwebp", "libxcrypt", "openjpeg", "tcl", "tk", "zlib"]
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Discord Bot"
+
+[[workflows.workflow]]
+name = "Discord Bot"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python bot.py"
+
+[workflows.workflow.metadata]
+outputType = "console"
+
+[userenv]
+
+[userenv.shared]
+FIREBASE_URL = "https://niiuhoip-default-rtdb.europe-west1.firebasedatabase.app"
+FIREBASE_AUTH_TOKEN = "PxkwSAviPaJgTER4in8FuQTaEScsTFf1WRQq4P9m"
+DISCORD_BOT_TOKEN = "MTM4ODUzNzM3NzYzMDQ1NzkxOA.G9HSb7.KeujN4RNpGBdRUeEh9WHorH4Thst5ZqTWfThpE"
+TEMPLATE_PLACE_ID = "96822269460219"
+UNIVERSE_ID = "9240213603"

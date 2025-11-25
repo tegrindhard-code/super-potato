@@ -1,0 +1,90 @@
+{
+  "732776127093014579": [
+    {
+      "reward_type": "item",
+      "reward": "Casteliacone",
+      "bst": 542,
+      "tier": "Mythic",
+      "timestamp": "2025-11-25T17:10:51.044843"
+    },
+    {
+      "reward_type": "pokemon",
+      "reward": "Clamperl",
+      "bst": 345,
+      "tier": "Common",
+      "timestamp": "2025-11-25T17:16:50.814209"
+    },
+    {
+      "reward_type": "pokemon",
+      "reward": "Thundurus",
+      "bst": 580,
+      "tier": "Legendary",
+      "timestamp": "2025-11-25T17:17:14.395200"
+    },
+    {
+      "reward_type": "pokemon",
+      "reward": "Blastoise",
+      "bst": 635,
+      "tier": "Legendary",
+      "timestamp": "2025-11-25T17:17:30.929171"
+    },
+    {
+      "reward_type": "item",
+      "reward": "Mystic Water",
+      "bst": 610,
+      "tier": "Legendary",
+      "timestamp": "2025-11-25T17:17:55.829010"
+    },
+    {
+      "reward_type": "item",
+      "reward": "Full Incense",
+      "bst": 500,
+      "tier": "Epic",
+      "timestamp": "2025-11-25T17:18:09.409808"
+    },
+    {
+      "reward_type": "pokemon",
+      "reward": "Necrozma",
+      "bst": 680,
+      "tier": "Legendary",
+      "timestamp": "2025-11-25T17:22:52.209473"
+    },
+    {
+      "reward_type": "pokemon",
+      "reward": "Celesteela",
+      "bst": 570,
+      "tier": "Mythic",
+      "timestamp": "2025-11-25T17:25:56.659870"
+    },
+    {
+      "reward_type": "pokemon",
+      "reward": "Nosepass",
+      "bst": 375,
+      "tier": "Common",
+      "timestamp": "2025-11-25T17:27:57.229353"
+    }
+  ],
+  "1257268308609335387": [
+    {
+      "reward_type": "pokemon",
+      "reward": "Wo-Chien",
+      "bst": 570,
+      "tier": "Mythic",
+      "timestamp": "2025-11-25T17:31:34.736459"
+    },
+    {
+      "reward_type": "pokemon",
+      "reward": "Gible",
+      "bst": 300,
+      "tier": "Common",
+      "timestamp": "2025-11-25T17:31:52.612097"
+    },
+    {
+      "reward_type": "item",
+      "reward": "Magost Berry",
+      "bst": 535,
+      "tier": "Mythic",
+      "timestamp": "2025-11-25T17:32:07.000051"
+    }
+  ]
+}
